@@ -3,18 +3,15 @@ import 'package:flutter/material.dart';
 class AppColors {
   AppColors._();
 
-  static Color primaryColor = const Color(0xFF2F5596);
-  static Color secondaryPrimaryColor = const Color(0xFF4A73B7);
-  static Color greenColor = const Color(0xFF4AB786);
-  static Color skyblueColor = const Color(0xFFB5CAFA);
+  static Color primaryColor = const Color(0xFF400049);
+  static Color authBgColor = const Color(0xFF540160);
+  static Color onBoardingBgColor = const Color(0xFF6C017C);
+  static Color whiteColor = const Color(0xFFFFFFFF);
+  static Color secondaryPrimaryColor = const Color(0xFFFE87CF);
+  static Color buttonColor = const Color(0xFF9801AE);
+  static Color secondaryTextColor = const Color(0xFFF5E6F7);
   static Color bgColor = const Color(0xFFFDF8F8);
-  static Color containerBgColor = const Color(0xFFFEDF3F4);
+  static Color dividerColor = const Color(0xFFD08ADA);
+  static Color hintTextColor = const Color(0xFFB399B6);
   static Color textColor = const Color(0xFF82878F);
-  static Color yellowColor = const Color(0xFFBDBF4C);
-  static Color redColor = const Color(0xFFBF4C60);
-  static Color redpinkColor = const Color(0xFFF3A9B3);
-  static Color stockdotColor1 = const Color(0xFFA08EEE);
-  static Color stockdotColor2 = const Color(0xFFE59381);
-  static Color stockdotColor3 = const Color(0xFFF466C5);
-  static Color stockdotColor4 = const Color(0xFFFABC70);
 }

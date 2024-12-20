@@ -3,7 +3,6 @@ import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../utils/app_colors.dart';
-import '../../utils/app_strings.dart';
 
 class AppExitDialog extends StatelessWidget {
   final Widget body;
@@ -18,7 +17,7 @@ class AppExitDialog extends StatelessWidget {
           context: context,
           builder: (context) => AlertDialog(
             title: Text(
-              AppString.warningTxt,
+              "AppString.warningTxt",
               style: TextStyle(
                 color: Colors.black,
                 fontWeight: FontWeight.bold,
@@ -26,7 +25,7 @@ class AppExitDialog extends StatelessWidget {
               ),
             ),
             content: Text(
-              AppString.alertText,
+              "AppString.alertText",
               style: TextStyle(
                 color: Colors.black,
                 fontSize: 17.sp,

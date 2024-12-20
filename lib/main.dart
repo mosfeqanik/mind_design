@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:next_room/src/features/splash/presentation/splash_page.dart';
 import 'package:next_room/src/features/splash/provider/splash_provider.dart';
-import '/src/features/authentication/provider/auth_provider.dart';
-import '/src/features/authentication/repository/auth_repo.dart';
 import 'package:provider/provider.dart';
+
+import '/src/features/authentication/repository/auth_repo.dart';
 import 'src/core/data/dio/dio_client.dart';
-import 'src/features/splash/presentation/splash_page.dart';
 import 'src/utils/app_assets.dart';
 import 'src/utils/app_colors.dart';
 import 'src/utils/local_storage_manager.dart';
@@ -22,12 +22,6 @@ void main() async {
         Provider<AuthRepo>(
           create: (context) => AuthRepo(dioClient),
         ),
-        ChangeNotifierProvider<AuthProvider>(
-          create: (context) {
-            final authRepo = Provider.of<AuthRepo>(context, listen: false);
-            return AuthProvider(authRepo);
-          },
-        ),
         ChangeNotifierProvider(create: (_) => InitializationProvider()),
       ],
       child: const MyApp(),
@@ -42,7 +36,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     ScreenUtil.init(
       context,
-      designSize: const Size(390, 836),
+      designSize: const Size(375, 812),
       minTextAdapt: true,
     );
     return MaterialApp(

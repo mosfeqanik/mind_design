@@ -22,6 +22,7 @@ dependencies:
   connectivity_plus:
   fluttertoast:
   shared_preferences:
+  google_fonts: ^6.2.1
 
 
 dev_dependencies:
@@ -49,5 +50,6 @@ flutter:
     - assets/images/
     - assets/icons/
     - assets/menu_icons/
+    - assets/bg_images/
     - env
     - envExample
