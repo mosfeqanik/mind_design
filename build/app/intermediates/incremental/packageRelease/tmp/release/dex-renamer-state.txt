@@ -1,0 +1,4 @@
+#Fri Dec 20 19:36:56 BDT 2024
+base.0=D\:\\App Development\\Git Clone Full Project\\mind_design\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,21 @@
+
+#fp dmt api
+API_URL="https://fp-api.togumogu.com/api/v1"
+
+#location key
+API_KEY=""
+
+#app id333#
+APP_ID='1:131405504519:android:6c57c8ca793481b5'
+
+#messeging sender id
+SENDER_ID='131405504519'
+
+#project id
+PROJECT_ID='',
+
+#auth domain
+AUTH_DOMAIN=''
+
+#ios client id
+IOS_CLIENT_ID=''

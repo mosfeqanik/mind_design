@@ -1,0 +1,1 @@
+ D:\\App\ Development\\Git\ Clone\ Full\ Project\\mind_design\\.dart_tool\\flutter_build\\f9b3b9c3df50b6a42985823a6aa80c43\\native_assets.yaml: 

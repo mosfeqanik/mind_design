@@ -21,9 +21,7 @@ class OnboardingBoard extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              SizedBox(
-                height: 20.h,
-              ),
+              SizedBox(height: 20.h),
               Image.asset(
                 AppAssets.listingSongOnboarding,
                 height: 328.h,

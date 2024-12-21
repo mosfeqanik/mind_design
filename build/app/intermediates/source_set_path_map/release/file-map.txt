@@ -1,0 +1,21 @@
+com.nextroom.next_room.app-core-1.6.0-0 C:\Users\DS TECHNOLOGY\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+com.nextroom.next_room.app-jetified-window-java-1.0.0-beta04-1 C:\Users\DS TECHNOLOGY\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+com.nextroom.next_room.app-jetified-annotation-experimental-1.1.0-2 C:\Users\DS TECHNOLOGY\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+com.nextroom.next_room.app-jetified-datastore-preferences-1.0.0-3 C:\Users\DS TECHNOLOGY\.gradle\caches\transforms-3\e75666861c19ddc5e1b02c228a732c3d\transformed\jetified-datastore-preferences-1.0.0\res
+com.nextroom.next_room.app-jetified-datastore-1.0.0-4 C:\Users\DS TECHNOLOGY\.gradle\caches\transforms-3\ea5100a471779cdfb4c61328eadd49f2\transformed\jetified-datastore-1.0.0\res
+com.nextroom.next_room.app-jetified-window-1.0.0-beta04-5 C:\Users\DS TECHNOLOGY\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+com.nextroom.next_room.app-main-6 D:\App Development\Git Clone Full Project\mind_design\android\app\src\main\res
+com.nextroom.next_room.app-release-7 D:\App Development\Git Clone Full Project\mind_design\android\app\src\release\res
+com.nextroom.next_room.app-pngs-8 D:\App Development\Git Clone Full Project\mind_design\build\app\generated\res\pngs\release
+com.nextroom.next_room.app-resValues-9 D:\App Development\Git Clone Full Project\mind_design\build\app\generated\res\resValues\release
+com.nextroom.next_room.app-rs-10 D:\App Development\Git Clone Full Project\mind_design\build\app\generated\res\rs\release
+com.nextroom.next_room.app-mergeReleaseResources-11 D:\App Development\Git Clone Full Project\mind_design\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.nextroom.next_room.app-mergeReleaseResources-12 D:\App Development\Git Clone Full Project\mind_design\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.nextroom.next_room.app-merged_res-13 D:\App Development\Git Clone Full Project\mind_design\build\app\intermediates\merged_res\release
+com.nextroom.next_room.app-packaged_res-14 D:\App Development\Git Clone Full Project\mind_design\build\connectivity_plus\intermediates\packaged_res\release
+com.nextroom.next_room.app-packaged_res-15 D:\App Development\Git Clone Full Project\mind_design\build\device_info_plus\intermediates\packaged_res\release
+com.nextroom.next_room.app-packaged_res-16 D:\App Development\Git Clone Full Project\mind_design\build\fluttertoast\intermediates\packaged_res\release
+com.nextroom.next_room.app-packaged_res-17 D:\App Development\Git Clone Full Project\mind_design\build\package_info_plus\intermediates\packaged_res\release
+com.nextroom.next_room.app-packaged_res-18 D:\App Development\Git Clone Full Project\mind_design\build\path_provider_android\intermediates\packaged_res\release
+com.nextroom.next_room.app-packaged_res-19 D:\App Development\Git Clone Full Project\mind_design\build\shared_preferences_android\intermediates\packaged_res\release
+com.nextroom.next_room.app-packaged_res-20 D:\App Development\Git Clone Full Project\mind_design\build\sqflite\intermediates\packaged_res\release
